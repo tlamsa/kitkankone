@@ -19,10 +19,10 @@ body, html {
     min-height: 100%;
   }
   
-  .bgimg-2 {
+  /* .bgimg-2 {
     background-image: url("http://www.w3schools.com/howto/img_parallax2.jpg");
     min-height: 400px;
-  }
+  } */
   
   .bgimg-3 {
     background-image: url("http://www.w3schools.com/howto/img_parallax3.jpg");
